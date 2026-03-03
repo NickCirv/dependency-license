@@ -1,0 +1,41 @@
+{
+  "name": "dependency-license",
+  "version": "1.0.0",
+  "description": "Scan npm dependencies for licenses. Flag GPL, AGPL, and copyleft. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "dependency-license": "./index.js",
+    "dlicense": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "license",
+    "compliance",
+    "npm",
+    "gpl",
+    "agpl",
+    "copyleft",
+    "license-checker",
+    "open-source-compliance"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/dependency-license.git"
+  },
+  "homepage": "https://github.com/NickCirv/dependency-license#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/dependency-license/issues"
+  }
+}
