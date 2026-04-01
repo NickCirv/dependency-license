@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # dependency-license
 
 > Scan npm dependencies for licenses. Flag GPL, AGPL, copyleft. Zero dependencies.
